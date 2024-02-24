@@ -1,0 +1,42 @@
+{
+  "name": "purple-pexel",
+  "displayName": "Purple Pexel",
+  "description": "purple pexel",
+  "version": "0.0.2",
+  "publisher": "vinodjangid07",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/vinodjangid07/purple-pexel"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "purple",
+    "pexel",
+    "vinodjangid07",
+    "vscode",
+    "vscode-theme",
+    "purple-pexel",
+    "purple-pexel-theme",
+    "purple-pexel-vscode-theme",
+    "purple-pexel-vscode",
+    "purple pexel theme",
+    "purple pexel"
+  ],
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "icon": "theme-icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Purple Pexel",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Purple Pexel-color-theme.json"
+      }
+    ]
+  }
+}
