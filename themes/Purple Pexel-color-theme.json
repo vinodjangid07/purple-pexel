@@ -109,7 +109,7 @@
 		"name": "punctuation.definition",
 		"scope": "punctuation.definition.string.begin,punctuation.definition.string.end",
 		"settings": {
-		  "foreground": "#e7de79"
+		  "foreground": "#975ff0"
 		}
 	  },
 	  {
@@ -144,7 +144,7 @@
 		"name": "inserted.diff",
 		"scope": "markup.inserted.diff",
 		"settings": {
-		  "foreground": "#e7de79"
+		  "foreground": "#975ff0"
 		}
 	  },
 	  {
@@ -736,7 +736,7 @@
 		"name": "Strings",
 		"scope": "string",
 		"settings": {
-		  "foreground": "#e7de79"
+		  "foreground": "#975ff0"
 		}
 	  },
 	  {
@@ -899,14 +899,14 @@
 		"name": "[VSCODE-CUSTOM] Markdown Inline Raw",
 		"scope": "markup.inline.raw.markdown",
 		"settings": {
-		  "foreground": "#e7de79"
+		  "foreground": "#975ff0"
 		}
 	  },
 	  {
 		"name": "[VSCODE-CUSTOM] Markdown Inline Raw",
 		"scope": "markup.inline.raw.string.markdown",
 		"settings": {
-		  "foreground": "#e7de79"
+		  "foreground": "#975ff0"
 		}
 	  },
 	  {
@@ -1038,7 +1038,7 @@
 		"name": "Source Json Meta Structure Dictionary Json > Value Json > String Quoted Json,source Json Meta Structure Array Json > Value Json > String Quoted Json,source Json Meta Structure Dictionary Json > Value Json > String Quoted Json > Punctuation,source Json Meta Structure Array Json > Value Json > String Quoted Json > Punctuation",
 		"scope": "source.json meta.structure.dictionary.json > value.json > string.quoted.json,source.json meta.structure.array.json > value.json > string.quoted.json,source.json meta.structure.dictionary.json > value.json > string.quoted.json > punctuation,source.json meta.structure.array.json > value.json > string.quoted.json > punctuation",
 		"settings": {
-		  "foreground": "#e7de79"
+		  "foreground": "#975ff0"
 		}
 	  },
 	  {
@@ -1381,7 +1381,7 @@
 		  "keyword.other.template.begin"
 		],
 		"settings": {
-		  "foreground": "#e7de79"
+		  "foreground": "#975ff0"
 		}
 	  },
 	  {
@@ -1390,7 +1390,7 @@
 		  "keyword.other.template.end"
 		],
 		"settings": {
-		  "foreground": "#e7de79"
+		  "foreground": "#975ff0"
 		}
 	  },
 	  {
@@ -1399,7 +1399,7 @@
 		  "keyword.other.substitution.begin"
 		],
 		"settings": {
-		  "foreground": "#e7de79"
+		  "foreground": "#975ff0"
 		}
 	  },
 	  {
@@ -1408,7 +1408,7 @@
 		  "keyword.other.substitution.end"
 		],
 		"settings": {
-		  "foreground": "#e7de79"
+		  "foreground": "#975ff0"
 		}
 	  },
 	  {
@@ -1537,7 +1537,7 @@
 		  "source.ini"
 		],
 		"settings": {
-		  "foreground": "#e7de79"
+		  "foreground": "#975ff0"
 		}
 	  },
 	  {
@@ -1591,7 +1591,7 @@
 		  "meta.definition.class.inherited.classes.groovy"
 		],
 		"settings": {
-		  "foreground": "#e7de79"
+		  "foreground": "#975ff0"
 		}
 	  },
 	  {
@@ -1697,7 +1697,7 @@
 		  "beginning.punctuation.definition.quote.markdown.xi"
 		],
 		"settings": {
-		  "foreground": "#e7de79"
+		  "foreground": "#975ff0"
 		}
 	  },
 	  {
@@ -1850,7 +1850,7 @@
 	  "selection.background": "#6740a5",
 	  "scrollbar.shadow": "#000000",
 	  "activityBar.foreground": "#ffffff",
-	  "activityBar.background": "#241638",
+	  "activityBar.background": "#0a0813",
 	  "activityBar.inactiveForeground": "#ffffff66",
 	  "activityBarBadge.foreground": "#ffffff",
 	  "activityBarBadge.background": "#975ff0",
