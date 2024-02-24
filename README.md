@@ -1,7 +1,7 @@
 # Purple Pexel Theme for VS Code
 
 <div align="center">
-<a align="center" href="https://VSCode.pro/?utm_source=sop"><img align="center" src="https://github.com/vinodjangid07/purple-pexel/assets/86096184/278e18bf-2e8a-4ad6-8928-6f1661a9cabf" /></a>
+<a align="center" href="https://vinodjangid07.github.io"><img align="center" src="https://github.com/vinodjangid07/purple-pexel/assets/86096184/278e18bf-2e8a-4ad6-8928-6f1661a9cabf" /></a>
 </div>
 
 <br>
