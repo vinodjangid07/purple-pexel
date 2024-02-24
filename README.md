@@ -45,4 +45,8 @@
 5. Code/File ＞ Preferences ＞ Color Theme ＞ **Purple Pexel**.
 6. 🌟 [Rate five-stars](https://marketplace.visualstudio.com/items?itemName=vinodjangid07.purple-pexel&ssr=false#overview) to appreciate the effort on this theme.
 
+<<<<<<< HEAD
 <br>
+=======
+<br>
+>>>>>>> 1e1cf8f9b5f7f780f146e3328486df9ca20b3e0d
