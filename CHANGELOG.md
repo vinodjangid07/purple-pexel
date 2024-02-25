@@ -1,9 +1,17 @@
 # Change Log
 
-All notable changes to the "purple-pexel" extension will be documented in this file.
+# Purple Pexel Theme
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### Latest version
 
-## [Unreleased]
+## 0.0.12
 
-- Initial release
+### Old versions
+
+## 0.0.11
+
+## 0.0.10
+
+## 0.0.8
+
+## 0.0.7

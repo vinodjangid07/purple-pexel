@@ -38,8 +38,8 @@
 
 ## Alternate Installation
 
-1. Launch Quick Open using <kbd>Cmd</kbd>+<kbd>P</kbd> — or — <kbd>Ctrl</kbd>+<kbd>P</kbd>.
-2. Paste the command `code --install-extension vinodjangid07.purple-pexel`
+1. Launch Quick Open in vs code using <kbd>Cmd</kbd>+<kbd>P</kbd> — or — <kbd>Ctrl</kbd>+<kbd>P</kbd>.
+2. Paste the command `ext install vinodjangid07.purple-pexel`
 3. Click **Install** to install it.
 4. Click **Reload** to reload your editor.
 5. Code/File ＞ Preferences ＞ Color Theme ＞ **Purple Pexel**.
